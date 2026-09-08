@@ -2,8 +2,15 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid 244ddee8-7b25-4e51-b270-61ee2a32bc0b)
+	(uuid "244ddee8-7b25-4e51-b270-61ee2a32bc0b")
 	(paper "A4")
+	(title_block
+		(title "test_scp500")
+		(date "2026-09-08")
+		(rev "0.01")
+		(company "@stoppattern")
+		(comment 1 "SPC500 テスト基板")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
