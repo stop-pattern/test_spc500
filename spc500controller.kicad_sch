@@ -1,0 +1,66 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "917c1926-6a08-45e4-8568-4b94d510bff6")
+	(paper "A4")
+	(title_block
+		(title "test_scp500")
+		(date "2026-09-08")
+		(rev "0.01")
+		(company "@stoppattern")
+		(comment 1 "SPC500 テスト基板")
+	)
+	(lib_symbols)
+	(polyline
+		(pts
+			(xy 12.7 -12.7) (xy 148.59 -12.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e1665ca-6fb5-469e-9b51-4307edcc2fcd")
+	)
+	(polyline
+		(pts
+			(xy 148.59 215.9) (xy 284.48 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78f96238-40bc-4277-b52a-46c3ac31a6ae")
+	)
+	(polyline
+		(pts
+			(xy 148.59 -12.7) (xy 148.59 215.9)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+			(color 0 0 0 0.003921568627)
+		)
+		(uuid "869d6afd-020a-40a8-a05a-afa499081a95")
+	)
+	(polyline
+		(pts
+			(xy 148.59 -12.7) (xy 284.48 -12.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc4d0526-51e3-49cf-9425-c0b7008bb9d4")
+	)
+	(polyline
+		(pts
+			(xy 12.7 215.9) (xy 148.59 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c55988e2-7af4-47d3-8a1a-c5c42bdc4e21")
+	)
+)

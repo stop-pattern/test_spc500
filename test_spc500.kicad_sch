@@ -4053,6 +4053,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 81.28) (xy 228.6 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12611b69-c577-4a26-94ec-b11a81fd31a8")
+	)
+	(wire
+		(pts
 			(xy 203.2 125.73) (xy 203.2 133.35)
 		)
 		(stroke
@@ -4140,6 +4150,16 @@
 			(type default)
 		)
 		(uuid "1ff2e3b2-c865-4bd7-9011-3054b4358af5")
+	)
+	(wire
+		(pts
+			(xy 279.4 73.66) (xy 266.7 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "217eb05b-6cf3-48e0-9b7c-c44ca8805e7f")
 	)
 	(wire
 		(pts
@@ -4624,6 +4644,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 78.74) (xy 228.6 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64bfd7e1-4878-4435-a3d9-9712b8e6f771")
+	)
+	(wire
+		(pts
 			(xy 231.14 34.29) (xy 241.3 34.29)
 		)
 		(stroke
@@ -4934,6 +4964,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 71.12) (xy 228.6 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8dd7e107-bf47-4371-937f-9f7098ad5cb8")
+	)
+	(wire
+		(pts
 			(xy 63.5 25.4) (xy 63.5 27.94)
 		)
 		(stroke
@@ -5104,6 +5144,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 73.66) (xy 228.6 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a715834c-0b1a-46e7-9090-d930d671d342")
+	)
+	(wire
+		(pts
 			(xy 187.96 71.12) (xy 177.8 71.12)
 		)
 		(stroke
@@ -5241,6 +5291,16 @@
 			(type default)
 		)
 		(uuid "c134555d-b5ab-452f-99aa-f59a4030fbdd")
+	)
+	(wire
+		(pts
+			(xy 279.4 71.12) (xy 266.7 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c249ac8a-2866-4a43-bef1-ed7d31682e92")
 	)
 	(wire
 		(pts
@@ -5564,6 +5624,16 @@
 	)
 	(wire
 		(pts
+			(xy 279.4 81.28) (xy 266.7 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e59accf7-2c83-40f4-9318-ad454f8a688d")
+	)
+	(wire
+		(pts
 			(xy 107.95 25.4) (xy 120.65 25.4)
 		)
 		(stroke
@@ -5601,6 +5671,16 @@
 			(type default)
 		)
 		(uuid "eb72d79c-57e3-4409-b055-b751b3bd464b")
+	)
+	(wire
+		(pts
+			(xy 279.4 76.2) (xy 266.7 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb8e0727-7b0d-4cf7-957d-8aceca184cbb")
 	)
 	(wire
 		(pts
@@ -5782,6 +5862,16 @@
 		)
 		(uuid "0b0f3074-7b46-4b15-9053-5c2aae42b69a")
 	)
+	(label "signal_H_H"
+		(at 215.9 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "158aae2f-1904-478f-b8af-ae44fe4d0689")
+	)
 	(label "RX_CMP_H"
 		(at 187.96 111.76 180)
 		(effects
@@ -5842,6 +5932,16 @@
 		)
 		(uuid "38047fe4-cd8f-4c63-81e4-724db4ccb53a")
 	)
+	(label "signal_N_L"
+		(at 215.9 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4568008e-f0b6-4ad2-9cc3-9ebc0ed9fd32")
+	)
 	(label "LED"
 		(at 187.96 58.42 180)
 		(effects
@@ -5851,6 +5951,46 @@
 			(justify right bottom)
 		)
 		(uuid "47205884-f556-4540-9246-525e0fcbe5bf")
+	)
+	(label "signal_H_L"
+		(at 215.9 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4d2f3974-c57d-4998-9190-ea8ece0ea44b")
+	)
+	(label "SPC500.S"
+		(at 279.4 76.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4f78d5ac-3b41-4b53-8d4f-1f84e1236aaa")
+	)
+	(label "SPC500.L"
+		(at 279.4 71.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "548acb79-b83f-487b-86b3-04aaed62f962")
+	)
+	(label "signal_out"
+		(at 279.4 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5a61de23-5b4c-444e-a11c-1896937b417e")
 	)
 	(label "TX_LEV_[0..1]"
 		(at 215.9 41.91 180)
@@ -5871,6 +6011,16 @@
 			(justify right bottom)
 		)
 		(uuid "7052b9e9-25ad-4293-ab76-4d7f7f886be7")
+	)
+	(label "signal_N_H"
+		(at 215.9 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7100d12e-2b6a-458c-a36f-9a558615e057")
 	)
 	(label "XIN"
 		(at 116.84 104.14 0)
@@ -6081,6 +6231,16 @@
 			(justify left bottom)
 		)
 		(uuid "d9968270-a5c7-4293-a4f2-011a8ce89c47")
+	)
+	(label "SPC500.N"
+		(at 279.4 73.66 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d9f03045-6161-4d3e-b572-f4e270cc4d5c")
 	)
 	(label "RX_LEV_2"
 		(at 187.96 106.68 180)
@@ -16617,6 +16777,132 @@
 				(path "/244ddee8-7b25-4e51-b270-61ee2a32bc0b"
 					(reference "U11")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 228.6 63.5)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "902fe28d-cdc1-48a2-ba6d-ef71e5975d63")
+		(property "Sheetname" "spc500"
+			(at 228.6 62.7884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "spc500.kicad_sch"
+			(at 228.6 89.4846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SPC500.L" output
+			(at 266.7 71.12 0)
+			(uuid "d69bd860-1786-430b-837c-84c954213f3e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPC500.N" output
+			(at 266.7 73.66 0)
+			(uuid "55a15f18-1ac4-4fa0-8d1d-64c95d94a839")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPC500.S" output
+			(at 266.7 76.2 0)
+			(uuid "56ddf988-b6ef-40d2-9275-a6d046528696")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "signal_L_H" input
+			(at 228.6 71.12 180)
+			(uuid "f711f8cf-1192-433e-9a57-fd114649d184")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "signal_L_L" input
+			(at 228.6 73.66 180)
+			(uuid "a22eac52-46fb-4a9f-8513-71b7c94f59ba")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "signal_N_H" input
+			(at 228.6 78.74 180)
+			(uuid "da36e285-28a7-408b-9cb0-81d7196b07a7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "signal_N_L" input
+			(at 228.6 81.28 180)
+			(uuid "f5cc0631-1ebf-4573-8e9c-3a5e3b90e3a5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "signal_out" output
+			(at 266.7 81.28 0)
+			(uuid "0b089cc9-46d4-49c6-879a-210abef9cc57")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "test_spc500"
+				(path "/244ddee8-7b25-4e51-b270-61ee2a32bc0b"
+					(page "3")
 				)
 			)
 		)

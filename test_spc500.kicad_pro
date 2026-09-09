@@ -632,7 +632,7 @@
         "uuid": "244ddee8-7b25-4e51-b270-61ee2a32bc0b"
       }
     ],
-    "used_designators": "#FLG1-2,R13-39,J3-5,LD1-5,#PWR37-111,C5-25,H1-4,Q5-8,SW1-3,U11-16,Y1,JP1-9",
+    "used_designators": "D4-6,#PWR23-32,C1-2,Q1-2,R9-12,U9-10",
     "variants": []
   },
   "sheets": [
@@ -643,6 +643,22 @@
     [
       "a9269f8e-da78-4cf3-b82c-025c8076a016",
       "usb"
+    ],
+    [
+      "902fe28d-cdc1-48a2-ba6d-ef71e5975d63",
+      "spc500"
+    ],
+    [
+      "0326901c-0a7f-454a-b2ca-319d28685512",
+      "bridge_L"
+    ],
+    [
+      "3bda6538-798f-4ae0-84f4-746a0ed22e33",
+      "bridge_N"
+    ],
+    [
+      "62185482-9308-4a2c-91cd-812a2d220e36",
+      "isolate"
     ]
   ],
   "text_variables": {},
